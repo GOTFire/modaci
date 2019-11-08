@@ -89,7 +89,7 @@ class _ResimDetayState extends State<ResimDetay> {
                           Container(
                             width: MediaQuery.of(context).size.width / 2,
                             child: Text(
-                              "Burada gereksiz bir açıklama olabilir ama bir buton iki butondan iyimidir",
+                              "tüm muhteşem hikayeler iki şekilde başlar :)",
                               style: TextStyle(
                                 fontSize: 16,
                                 color: Colors.grey,

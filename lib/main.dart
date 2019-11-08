@@ -179,8 +179,7 @@ class _AnaTasarimState extends State<AnaTasarim>
                         height: yukseklikYuzde * 2,
                       ),
                       Text(
-                          "Bu kişi eminimki saçma bir instagram tarzı fotoğraf paylaşmış lakin"
-                          " önemli değil bu açıklama öylemesine bir metin",
+                          "tüm muhteşem hikayeler iki şekilde başlar:" ,
                           style: TextStyle(color: Colors.grey, fontSize: 15)),
                       SizedBox(
                         height: yukseklikYuzde * 2,

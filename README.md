@@ -1,6 +1,8 @@
 # modaci
 
-Mode uygulaması
+Moda uygulaması
+
+![](moda.gif)
 
 ## Getting Started
 
